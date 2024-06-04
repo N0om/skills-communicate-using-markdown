@@ -7,6 +7,6 @@ Echo 'aaaa';
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-- [a] Turn on GitHub Pages
+- [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
